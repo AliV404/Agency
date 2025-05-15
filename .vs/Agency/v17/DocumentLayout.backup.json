@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novbe2\\source\\repos\\Agency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\viewmodels\\project\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\viewmodels\\project\\createprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\viewmodels\\project\\getprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\viewmodels\\project\\getprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\viewmodels\\category\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|c:\\users\\novbe2\\source\\repos\\agency\\agency\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA2439-DCE1-4D18-9354-0D49059A6CAE}|Agency\\Agency.csproj|solutionrelative:agency\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Agency\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Agency\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:09:29.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Agency\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Models\\Project.cs",
+              "RelativeToolTip": "Agency\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:57:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:55:51.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:56:18.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:55:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProjectVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Project\\CreateProjectVM.cs",
+              "RelativeDocumentMoniker": "Agency\\ViewModels\\Project\\CreateProjectVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Project\\CreateProjectVM.cs",
+              "RelativeToolTip": "Agency\\ViewModels\\Project\\CreateProjectVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:36:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProjectVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Project\\GetProjectVM.cs",
+              "RelativeDocumentMoniker": "Agency\\ViewModels\\Project\\GetProjectVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Project\\GetProjectVM.cs",
+              "RelativeToolTip": "Agency\\ViewModels\\Project\\GetProjectVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:57:15.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvxkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:00:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Agency\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeToolTip": "Agency\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:27:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:27:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:10:40.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Agency\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "Agency\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:27:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Agency\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Models\\Category.cs",
+              "RelativeToolTip": "Agency\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:47:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Program.cs",
+              "RelativeDocumentMoniker": "Agency\\Program.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Program.cs",
+              "RelativeToolTip": "Agency\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:24:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:21:22.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:20:30.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agency\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Agency\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:55:54.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "Agency\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Agency\\Agency\\ViewModels\\Category\\GetCategoryVM.cs",
+              "RelativeToolTip": "Agency\\ViewModels\\Category\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:55:50.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
